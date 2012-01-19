@@ -17,8 +17,10 @@ body > header h1 {
     font-size: 28px;
 }
 
-body > header h2 {
-    font-size: 18px;
+body > header a {
+    color: #999;
+    font-size: 14px;
+    text-decoration: none;
 }
 
 body > section {
