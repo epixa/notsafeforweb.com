@@ -10,7 +10,7 @@ body {
 body > header {
     margin: 40px auto 20px;
     text-align: center;
-    width: 860px;
+    width: 660px;
 }
 
 body > header h1 {
@@ -26,8 +26,8 @@ body > header a {
 body > section {
     margin: 0 auto;
     overflow: hidden;
-    width: 860px;
     text-align: center;
+    width: 660px;
 }
 
 .person {
